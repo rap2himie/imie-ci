@@ -1,4 +1,7 @@
 # Similar Text Finder
+
+[ ![Codeship Status for rap2himie/imie-ci](https://app.codeship.com/projects/9154b450-15fe-0135-f340-62bb81783d1a/status?branch=master)](https://app.codeship.com/projects/218038)
+
 ## TL;DR
 
 Similar text finder. Install via composer, works with any framework: Laravel, Slim, Symfony, etc.
